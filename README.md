@@ -1,4 +1,4 @@
-Brainwalletz
+Brainwallet
 ===========
 
 JavaScript Client-Side Bitcoin Address Generator
@@ -13,3 +13,4 @@ Notable features
 * Bitcoin transactions editor
 * Signing and verifying messages with bitcoin address
 * Litecoin support
+
