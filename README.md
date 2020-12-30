@@ -1,4 +1,4 @@
-Brainwallet
+Brainwallet official client
 ===========
 
 JavaScript Client-Side Bitcoin Address Generator
