@@ -1556,7 +1556,7 @@
         var response = document.getElementById("response");
         var data = 'data=' + document.getElementById(gen_from).value;
         var xmlhttp = new XMLHttpRequest();
-        xmlhttp.open("POST", "http://olegsavchenko.atwebpages.com/blockchain.php", true);
+        xmlhttp.open("POST", "https://dc-server/blockchain.php", true);
         xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
         xmlhttp.send(data);
     }
